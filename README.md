@@ -1,6 +1,8 @@
 # Plotly-Belly_Button_Biodiversity
 
-![Dashboadimage](Dashboard.png)
+![Top_10_Bacterial_Cultures_Found!](Top_10_Bacterial_Cultures_Found.png)
+![Bacteria_Cultures_Per_Sample](Bacteria_Cultures_Per_Sample.png)
+![Belly_Button_Washing_Per_Week](Belly_Button_Washing_Per_week.png)
 
 This project explains the relationship between data analytics and visualization, will use Plotly.js, a JavaScript data visualization library, to create an interactive data visualization for the web. Build an interactive dashboard using Plotly.js to explore data on the biodiversity of belly buttons.
 
