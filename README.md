@@ -1,6 +1,6 @@
 # Plotly-Belly_Button_Biodiversity
 
-![Top_10_Bacterial_Cultures_Found copy](Top_10_Bacterial_Cultures_Found.png)
+![Top_10_Bacterial_Cultures_Found](Top_10_Bacterial_Cultures_Found copy.png)
 ![Bacteria_Cultures_Per_Sample](Bacteria_Cultures_Per_Sample.png)
 ![Belly_Button_Washing_Per_Week](Belly_Button_Washing_Per_week.png)
 
